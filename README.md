@@ -22,7 +22,7 @@ Tempo excessivo de espera em chamadas recebidas
 Baixo volume de chamadas ativas (para operadores outbound)
 
 ## Dados Utilizados
-telecom_dataset_us.csv
+- telecom_dataset_us.csv
 
 Registros diários de chamadas realizadas e recebidas:
 
@@ -36,7 +36,7 @@ Volume de chamadas
 
 Duração da chamada e tempo total (incluindo espera)
 
-telecom_clients_us.csv
+- telecom_clients_us.csv
 
 Informações cadastrais dos clientes:
 
